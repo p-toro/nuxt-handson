@@ -20,3 +20,8 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+
+I referred to the hands-on below.
+Thank you very much!<br>
+[https://takanorip.gitbook.io/nuxt-hands-on/](https://takanorip.gitbook.io/nuxt-hands-on/)
